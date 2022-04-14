@@ -1,0 +1,31 @@
+---
+title: "607 Behind the screnes"
+author: "Benson"
+date: "4/13/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Say anything? Behind the scenes of suggested responses
+
+Source : https://design.facebook.com/stories/say-anything-behind-the-scenes-of-suggested-responses/
+
+While searching the recommender system, we always think the seller is pushing the product to the consumer or user. But I found an interesting recommender system from Facebook, and that is Facebook recommends the consumer is advised to merchandizers. The story "Say anything? behind the scenes of suggested responses." by Angela P and Talia L. promotes Facebook's product to the merchandizers. Facebook uses sentiments analysis to learn from the consumers and promote the right consumers to the merchandizers. 
+Here is how facebook process its sentiments analysis. Facebook will collect the data from the comment, filter the comment data and categorize the comments for the sentiments analysis. After that, they will localize it for the machine learning model. And finally, the system will recommender the potential consumer to the merchandizers. 
+
+
+This shows how facebook recommender the comment:
+![Facebook recommender system](https://scontent-lga3-2.xx.fbcdn.net/v/t39.8562-6/167554460_800708263899847_6794702263067378853_n.png?_nc_cat=102&ccb=1-5&_nc_sid=6825c5&_nc_ohc=h2tfeWA7VpgAX_mffeW&_nc_ht=scontent-lga3-2.xx&oh=00_AT-_R_gv5Xd7PVcuzJjAC3BoMhrKvk4x0ImbejVNIedRLQ&oe=625C5DFC)
+
+
+1) Who are your target users?
+ Merchandizer, influencer, and Web content designer.
+ 
+2) What are their key goals?
+ They are promoting the potential consumer or user to the right Merchandizer. 
+ 
+ 3) How can you help them accomplish those goals?
+ By reading and categorizing the consumer and Facebook will promote them to the merchandiser that looks in the same category. 
